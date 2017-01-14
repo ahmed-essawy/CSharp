@@ -1,2 +1,0 @@
-# CSharp
-ITI - C# Course
