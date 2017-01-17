@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_4_Events", "Lab5_4_Eve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_1", "Lab6_1\Lab6_1.csproj", "{5DB28782-B0F2-41C8-86B1-0E3650E2DF5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_1", "Lab7_1\Lab7_1.csproj", "{BCF7BF80-5BBA-42BF-B570-714C8BE46820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_2", "Lab7_2\Lab7_2.csproj", "{CB340EA0-1DFC-45A3-B248-83049AC2C9C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{5DB28782-B0F2-41C8-86B1-0E3650E2DF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB28782-B0F2-41C8-86B1-0E3650E2DF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB28782-B0F2-41C8-86B1-0E3650E2DF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF7BF80-5BBA-42BF-B570-714C8BE46820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF7BF80-5BBA-42BF-B570-714C8BE46820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF7BF80-5BBA-42BF-B570-714C8BE46820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF7BF80-5BBA-42BF-B570-714C8BE46820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB340EA0-1DFC-45A3-B248-83049AC2C9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB340EA0-1DFC-45A3-B248-83049AC2C9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB340EA0-1DFC-45A3-B248-83049AC2C9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB340EA0-1DFC-45A3-B248-83049AC2C9C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
