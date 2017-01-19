@@ -234,6 +234,12 @@ namespace Lab7_3_Bonus
 		{
 			pen = new Pen(pen.Color, 6);
 		}
+
+		private void panel1_Paint(object sender, PaintEventArgs e)
+		{
+
+		}
+
 		private void toolStripMenuItem8_Click(object sender, EventArgs e)
 		{
 			pen = new Pen(pen.Color, 7);
