@@ -1,4 +1,4 @@
-﻿namespace Lab7_2
+﻿namespace Lab7_2_Ball
 {
 	partial class Form1
 	{

@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Lab7_2
+namespace Lab7_2_Ball
 {
 	public partial class Form1 : Form
 	{
